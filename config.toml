@@ -9,17 +9,17 @@ theme = 'm10c'
     weight = 1
     
 [[menu.main]]
-    name = "Tags..."
+    name = "Tags"
     pageRef = "/tags"
     weight = 2
     
 [[menu.main]]
-    name = "About..."
+    name = "About"
     pageRef = "/about"
     weight = 3
 
 [[menu.main]]
-    name = "CoC..."
+    name = "CoC"
     pageRef = "/coc"
     weight = 4
 
