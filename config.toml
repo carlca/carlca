@@ -27,7 +27,7 @@ theme = 'm10c'
 
 [params]
     author = "carl caulkett"
-    description = "I'm a musician who codes occasionally - I make music with repetitive beats - I use and endorse [Bitwig](//bitwig.com)"
+    description = "I'm a musician who codes occasionally - I make music with repetitive beats - I use and endorse Bitwig"
     menu_item_separator = " - "
     bio = "musician / gopher"
     location = "london, england, europe"
