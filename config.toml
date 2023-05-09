@@ -1,0 +1,44 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'carl caulkett'
+theme = 'm10c'
+# theme = 'stack'
+
+[[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+    
+[[menu.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 2
+    
+[[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 3
+
+[[menu.main]]
+    name = "CoC"
+    pageRef = "/coc"
+    weight = 3
+
+
+[params]
+    author = "carl caulkett"
+    description = "I'm a musician who codes occasionally - I make music with repetitive beats - I use and endorse [Bitwig](//bitwig.com)"
+    menu_item_separator = " - "
+    bio = "musician / gopher"
+    location = "london, england, europe"
+    site_description = ""
+    copyright  = "powered by [hugo](//gohugo.io)"
+    
+[[params.social]]
+    icon = "mastodon"
+    name = "Mastodon"
+    url = "https://social.bitwig.community/@carlcaulkett"
+[[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/carlca"
