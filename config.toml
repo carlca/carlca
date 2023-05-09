@@ -2,7 +2,6 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'carl caulkett'
 theme = 'm10c'
-# theme = 'stack'
 
 [[menu.main]]
     name = "Home"
