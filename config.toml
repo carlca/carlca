@@ -23,10 +23,10 @@ theme = 'm10c'
     pageRef = "/coc"
     weight = 4
 
-
 [params]
     author = "carl caulkett"
-    description = "I'm a musician who codes occasionally - I make music with repetitive beats - I use and endorse [Bitwig](//bitwig.com)"
+    description = ""
+    tagline = "I'm a musician who codes occasionally - I make music with repetitive beats - I use and endorse [Bitwig](//bitwig.com)"
     menu_item_separator = " - "
     bio = "musician / gopher"
     location = "london, england, europe"
@@ -41,3 +41,11 @@ theme = 'm10c'
     icon = "github"
     name = "Github"
     url = "https://github.com/carlca"
+
+#[params.style]
+#    darkestColor = "#4b0082"
+#    darkColor = "#800080"
+#    lightColor = "#8A2BE2"
+#    lightestColor = "#dda0dd"
+#    primaryColor = "#ffffff"
+

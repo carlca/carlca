@@ -61,9 +61,6 @@ Follow these steps:
     # get the CWD and put it in $folder
     folder=${PWD##*/}
     
-    # make sure that >>! works
-    set -o noclobber
-    
     # I'm sure there are more concise ways of doing this...
     if [ ! -e README.md ]; then
         touch README.md
