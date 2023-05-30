@@ -149,4 +149,8 @@ Some more Git related tips from ohshitgit.com...
 
 The wonderful Katie Sylor-Miller [@ksylor](https://twitter.com/ksylor) and [@ohshitgit](https://twitter.com/ohshitgit) has put together
 a marvellous site full of intelligence, insight, attitude and profanity. See it at [ohshitgit.com](https://ohshitgit.com)
-    
+
+#### Here's @minortm's tip about matching Git files to .gitignore
+
+* git ls-files -i -c --exclude-from=.gitignore | xargs git rm --cached
+
